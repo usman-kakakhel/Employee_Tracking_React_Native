@@ -1,0 +1,34 @@
+{
+  "name": "Beacons",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@estimote/react-native-proximity": "^0.6.0",
+    "@react-native-community/async-storage": "^1.6.1",
+    "@voximplant/react-native-foreground-service": "^2.0.0",
+    "react": "16.8.6",
+    "react-native": "0.60.4",
+    "react-native-background-timer": "^2.1.1",
+    "react-native-pie-chart": "^1.0.13",
+    "react-native-push-notification": "^3.1.8",
+    "react-native-system-setting": "^1.7.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.5.5",
+    "@babel/runtime": "7.5.5",
+    "@react-native-community/eslint-config": "0.0.3",
+    "babel-jest": "24.8.0",
+    "eslint": "6.1.0",
+    "jest": "24.8.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
