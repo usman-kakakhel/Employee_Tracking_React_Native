@@ -4,7 +4,7 @@ An Android and IOS application, which tracks the location of the employees prese
 The Repo contains the employee tracking application.
 To install the application in your system, clone the repo and install it using:
 
-# $ npm install
+## $ npm install
 
 This will install the node_modules in the React Native application.
 
