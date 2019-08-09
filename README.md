@@ -1,3 +1,4 @@
+An Android and IOS application, which tracks the location of the employees present in the office. BTLE-beacons are used to track where in the office an employee spends most of their time and the data is locally saved in their devices. Features such as putting the phone to silent whenever a certain room is entered are also implemented. Due to the nature of the application, the application runs in the background, even if it is swiped from the task manager, until it is manually closed from a button inside the application.
 The Repo contains the employee tracking application.
 To install the application in your system, clone the repo and install it using:
 
